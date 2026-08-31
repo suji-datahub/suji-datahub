@@ -1,4 +1,14 @@
-# Suji Oh ㅣ Data Analyst👋
+# Suji Oh ㅣ Data Analyst  
+📫 ohsj6973@gmail.com
+
+
+### 🛠️ Skills
+
+### 📂 Projects
+
+
+
+
 
 <!--
 **suji-datahub/suji-datahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
