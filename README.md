@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Suji
 
 > # Data Analyst
-> Combining business experience with data to uncover meaningful insights.
+> 7 years of marketing experience, now transitioning into data analytics.
 
 📫 ohsj6973@gmail.com
 
 💡 About Me
 
-I am a data-driven professional transitioning into Data Analytics, with a background in marketing and business.
+I am transitioning into **Data Analytics**, combining my background in marketing with data-driven problem solving.
 
-My experience in marketing has developed my understanding of business problems, customer behavior, and decision-making. I am now applying this perspective to data analysis, using SQL, Python, Excel, and Power BI to explore data, identify patterns, and communicate actionable insights.
+My experience in marketing has given me a strong understanding of business problems, customer behavior, and decision-making. I am now applying this perspective to data analysis using **SQL, Python, Excel, and Power BI**.
 
-I am interested in data analysis, customer analytics, business analytics, and data-driven decision-making across various industries.
+I am interested in **data analysis, business analytics, customer analytics, and data-driven decision-making** across various industries.
 
 ### 🛠️ Skills
 
